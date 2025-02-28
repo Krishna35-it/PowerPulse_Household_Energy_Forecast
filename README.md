@@ -5,12 +5,12 @@ The dataset contains three years of energy consumption data, including features 
 
 **Key Features:**
 
-✅ Data Preprocessing & Cleaning
-✅ Trend Visualization
-✅ Feature Engineering (Rolling Averages, Peak Hours)
-✅ Predictive Modeling (Decision Tree, Random Forest, Gradient Boosting)
-✅ Hyperparameter Tuning for Model Optimization
-✅ Interactive Visualizations & Insights
+1) Data Preprocessing & Cleaning
+2) Trend Visualization
+3) Feature Engineering (Rolling Averages, Peak Hours)
+4) Predictive Modeling (Decision Tree, Random Forest, Gradient Boosting)
+5) Hyperparameter Tuning for Model Optimization
+6) Interactive Visualizations & Insights
 
 **Technologies Used:**
 
